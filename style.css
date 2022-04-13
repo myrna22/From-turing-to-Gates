@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F4f4f4;
+    line-height: 1.5em;
+    border: 4px black solid;
+}
+
+#head{
+    background-color: gray;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border: 4px #000 solid;
+    margin-bottom: 30px;
+}
+
+
+#container{
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+    text-align:center ;
+}
+
+img{
+    display: block;
+    width: 350px;
+    width: 50%;
+     margin: auto;
+
+}
+
+.foto1, .foto2{
+    padding-bottom: 15px;
+}
